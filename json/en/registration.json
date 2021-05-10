@@ -1,0 +1,136 @@
+{
+    "step1": {
+        "myTicketLinkText": "My Ticket",
+        "title": "1. Select Ticket Type",
+        "tickets": "<span class=\"Text-Style-2\">UDC 2019 TICKET</span>",
+        "openButtonText": "Begins {{date}}",
+        "openButtonDateFormat": "MMM DD",
+        "closeButtonText": "Closed",
+        "note": {
+            "title": "Please Note:",
+            "purchaseNotice": {
+                "title": "Ticket Conditions",
+                "description": [
+                    "Conference tickets are sold on a first-come, first-serve basis (based on the payment date) and may sell out early.",
+                    "Payment must be completed by specified deadline for special rates to apply.",
+                    "Up to 10 participants can be registered at once. <br/>Special prices are available for group registrations of 11 attendees or more. Please contact the UDC Secretariat for more information.",
+                    "All tickets will be issued onsite on September 4, the first day of the conference.",
+                    "Registering with false information can result in termination of registration.",
+                    "Credit cards payments only",
+                    "Please note that the ticket prices will be charged in your local currency."
+                ]
+            },
+            "refundPolicy": {
+                "title": "Cancellation and Refund Policy",
+                "description": [
+                    "For all cancellation and refund requests, please contact the UDC Secretariat via email. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">Send Email</a>",
+                    "Any refund requests submitted after Sep. 3 (Tue) will be processed after Sep. 16 (Mon)<br/>(Refund requests will be processed in order of submission)",
+                    "Refund Conditions",
+                    "<span class=\"darkish-blue-color\">- May 13 ~ Aug. 16:</span> <span class=\"cerulean-blue-color\">100% refund</span>",
+                    "<span class=\"darkish-blue-color\">- Aug. 17 ~ Sep. 3:</span> <span class=\"cerulean-blue-color\">80% refund</span>",
+                    "<span class=\"darkish-blue-color\">- From Sep. 4:</span> <span class=\"cerulean-blue-color\">No refund</span>"
+                ]
+            }
+        }
+    },
+    "step2": {
+        "title": "2. Terms and<br/>Conditions",
+        "totalAgreeCheckboxText": "Agree to UDC 2019’s Privacy Policy and receive events and promotional emails.",
+        "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es).<br/>You must agree with the terms of these agreements to continue.",
+        "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails <p class=\"subtext\">* Please agree with the terms of Promotional e-mails agreement to receive current information about UDC 2019</p>",
+        "disagree": "Disagree",
+        "next": "Next",
+        "portraitAgreement": "※ The customer has the right to refuse consent to the collection and use of his or her personal information, and there is no disadvantage even if the customer refuses to consent. However, if the customer refuses to give consent for the required consent (mandatory), he or she shall face limitations in using some services.<br/><br/>※ The organizer has the right to use photos and videos taken during the event publicly for different marketing and promotion purposes e.g. website. The organizer will make efforts to do so in a way that is respectful of the subjects’ wishes and privacy."
+    },
+    "step3": {
+        "title": "3. Attendee<br/>Information",
+        "addTicket": "Enter the participant information",
+        "buyerInfo": "Customer Information",
+        "participant": "Attendee Information",
+        "sameWithBuyer": "Same as the Customer information.",
+        "noteStudent": "※Please be sure to attach a copy of your student ID card or a certificate indicating  that you are a student.",
+        "buyMoreTickets": "Purchase Additional Tickets",
+        "alreadyRegisteredPhoneNumber": "This Phone Number is already registered.",
+        "alreadyRegisteredPhoneNumber_m": "This Phone Number<br>is already registered.",
+        "checkMyTicket": "Go to My Ticket",
+        "note": {
+            "title": "<span>UDC 2019</span> <1>Ticket purchase</1>",
+            "description": [
+                "Your registration e-mail and password are required to modify your registration information.",
+                "Up to 10 participants can be registered at once.",
+                "Please make sure the correct participant information is provided to ensure correct registration and name badges.",
+                "Once the payment process is complete, a confirmation email will be sent to the provided email address. Please contact the UDC Secretariat if you have not received an email.",
+                "UDC Secretariat email: udc_reg@upbit.com"
+            ]
+        }
+    },
+    "step4": {
+        "title": "4. Checkout"
+    },
+    "step5": {
+        "title": "5. Registration<br/>Details"
+    },
+    "tickets": {
+        "1": {
+            "title": "BLIND",
+            "name": "Blind",
+            "note": "*Limited offer for 2018 attendees",
+            "description": "Save <1>65%</1><br/>"
+        },
+        "2": {
+            "title": "EARLY BIRD",
+            "name": "Early Bird",
+            "note": "",
+            "description": "Save <1>50%</1><br/>"
+        },
+        "3": {
+            "title": "STANDARD",
+            "name": "Standard",
+            "note": "",
+            "description": "Save <1>25%</1><br/>"
+        },
+        "4": {
+            "title": "STUDENTS",
+            "name": "Students",
+            "note": "",
+            "description": "Special rates available to first 100 students<br/>Please be sure to attach a copy of your<br/>student ID card or certificate when<br/>registering"
+        },
+        "5": {
+            "title": "ONSITE",
+            "name": "OnSite",
+            "note": "",
+            "description": "<1>Onsite registration</1><br/>available."
+        },
+        "6": {
+            "title": "VIP",
+            "name": "VIP",
+            "note": "",
+            "description": ""
+        },
+        "includes": {
+            "title": "TICKET INCLUDES",
+            "description": [
+                "Full access to all UDC 2019 programs, including:",
+                "All speaker presentations",
+                "Access to networking lounge, exhibition zone, and<br/>other onsite events",
+                "Lunch and coffee break service on Sep. 4 & 5",
+                "Networking dinner on Sep. 4",
+                "Souvenirs",
+                "Free Wi-Fi"
+            ]
+        }
+    },
+    "payMethods": {
+        "creditCard": "Credit Card",
+        "bank": "bank",
+        "kakaopay": "Kakao Pay"
+    },
+    "payAlert": [
+        "※ For Visa and MasterCard users, please select ‘Other Card’",
+        "※ Please note that the ticket prices will be charged in your local currency.",
+        "※ An automatic notice in Korean will be emailed to you by the payment system provider confirming the purchase. This email can be disregarded."
+    ],
+    "englishMobileAlert": "Payment is available on PC only.",
+    "billNote": "※ If you need a receipt for the payment, please contact UDC secretariat. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">Send Email</a>",
+    "certificationCodeNote": "*Delivery of verification code may be delayed due to network issues."
+}

@@ -1,0 +1,79 @@
+{
+  "price": "Price",
+  "duration": "Duration",
+  "schedule": "Schedule",
+  "departure": "Deparature",
+  "arrival": "Arrival",
+  "venue": {
+    "title": "Venue",
+    "sub_title": "Grand Hyatt Incheon",
+    "description": "Grand Hyatt Incheon is strategically located at the gateway of Korea minutes away from the Incheon International Airport and is also surrounded by local attractions like Wangsan and Eurwang-ri beaches.",
+    "infos": [
+      {
+        "key": "Address",
+        "val": "208 Yeongjonghaeannam-ro,\n321 Beon-gil, Jung-gu, Incheon,\nSouth Korea, 22382"
+      },
+      {
+        "key": "Tel",
+        "val": "+82-32-745-1234"
+      },
+      {
+        "key": "Fax",
+        "val": "+82-32-745-2500"
+      }
+    ],
+    "go_to_homepage_prefix": "",
+    "go_to_homepage": "Click",
+    "go_to_homepage_suffix": " for more detailed information"
+  },
+  "transportation": {
+    "title": "Transportation",
+    "sub_title1": "Incheon Int’l Airport (Terminal 1)\n↔ Grand Hyatt Incheon",
+    "sub_title1_1": "Incheon Int’l Airport (Terminal 1)",
+    "sub_title1_2": "Grand Hyatt Incheon",
+    "info1": {
+      "title": "Hotel Shuttle",
+      "items": [
+        "Free",
+        "3 min",
+        "05:30~22:00",
+        "Incheon International Airport\nTerminal 1, 1st floor (Gate 3C)\n",
+        "West, Grand Hyatt Incheon"
+      ]
+    },
+    "info2": {
+      "title": "Maglev Train",
+      "items": [
+        "Free",
+        "5 min",
+        "07:30~20:30",
+        "Every 00,15,30,45 minutes.",
+        "Incheon International Airport",
+        "Terminal 1 Transportation Center, 2nd Fl.\nAdministration Complex Station\n(7-minute walk to Grand Hyatt Incheon)"
+      ]
+    },
+    "sub_title2": "Public transportation\nto Incheon Int’l Airport (Terminal 1)",
+    "info3": {
+      "title": "Airport Limousine Bus",
+      "items": [
+        "KRW 10,000~15,000 (approx. USD 9~14)",    
+        "70 min (from Seoul Station)",
+        "http://www.airportlimousine.co.kr/eng/lbr/all/lbr02_2_6000.php",
+        "",
+        "Incheon International Airport Terminal 1"
+      ]
+    },
+    "info4": {
+      "title": "Airport Railroad (AREX)",
+      "items": [
+        "KRW 9,000(approx. USD 8)",
+        "43 min (from Seoul Station)",
+        "https://www.arex.or.kr/main.do",
+        "",
+        "Incheon International Airport Terminal 1"
+      ]
+    }, 
+    "sub_title3": "UDC 2019 Shuttle Bus",
+    "later_notice": "<span class=\"underline\">Shuttle buses from Gwanghwamun, Gangnam and Pangyo</span> will be available for 2 days from Sep. 4 (Wed) ~ 5 (Thu).<br/>Detailed information on shuttle services will be provided at a later date."
+  }
+}

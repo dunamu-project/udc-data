@@ -1,0 +1,36 @@
+{
+  "login_from_my_ticket": {
+    "title": "Confirm Sign-Up Information",
+    "description": "Please enter the mobile phone number and password you used."
+  },
+  "check_subscription": {
+    "title": "Confirm Sign-Up Information",
+    "description": "Please enter the mobile phone number and password you used."
+  },
+  "login_from_buy_more_ticket": {
+    "title": "Buy more tickets",
+    "description": "You can log in using your e-mail address and password after you purchase your first ticket."
+  },
+  "find_pw": {
+    "title": "Find Password",
+    "firstNameHolder": "First Name",
+    "lastNameHolder": "Last Name",
+    "emailPlaceholder": "E-mail",
+    "send": "Send",
+    "verificationPlaceholder": "Verification Code"
+  },
+  "find_pw_complete": "Your temporary password has been successfully sent to your email (<span style=\"color:#0367d9\">{{email}}</span>).<br/>Please try again with your temporary password.",
+  "payWaiting": "Checkout",
+  "payDone": "Completed",
+  "totalTicketCount": "({{count}} Tickets)",
+  "deleteTicket": "Delete",
+  "payMotheds": "Payment Method",
+  "totalPayPrice": "Total",
+  "buyMoreTickets": "Purchase Additional Tickets",
+  "goToPay": "Checkout",
+  "receipt": "Receipt",
+  "detail": "Detail",
+  "payWaitingEmpty": "Empty",
+  "selectOrders": "Select orders.",
+  "selectPayMethod": "Select payment method."
+}

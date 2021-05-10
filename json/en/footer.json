@@ -1,0 +1,25 @@
+{
+    "sns": [
+        "youtube",
+        "twitter",
+        "medium",
+        "linkedin"
+    ],
+    "allowedSns": [
+        "youtube",
+        "twitter",
+        "medium",
+        "linkedin"
+    ],
+    "snsAlert": "Official UDC 2019 social media channels will be online shortly. Check back soon.",
+    "facebook": "https://www.facebook.com/UDC-Upbit-Developer-Conference-2188588898123258/?modal=admin_todo_tour",
+    "twitter": "https://twitter.com/upbitglobal",
+    "medium": "https://upbit.medium.com/",
+    "linkedin": "https://www.linkedin.com/company/upbit-official/",
+    "youtube": "https://www.youtube.com/channel/UCI-KFpsHxzdSx-yo0Y-TLqw",
+    "instagram": "https://www.Instagram.com/upbit_developer_conference",
+    "dunamuCorp": "Dunamu Inc.",
+    "ceoName": "CEO Lee Sirgoo",
+    "corpNum": "Corporate Registration Number",
+    "privacyPolicy": "Privacy Policy"
+}

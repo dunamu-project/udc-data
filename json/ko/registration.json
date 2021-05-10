@@ -1,0 +1,136 @@
+{
+    "step1": {
+        "myTicketLinkText": "나의 티켓 정보 확인",
+        "title": "1. 티켓타입 선택",
+        "tickets": "<span class=\"Text-Style-2\">UDC 2019</span> <span class=\"text-style-1\"> 티켓 구매하기</span>",
+        "openButtonText": "{{date}} Open",
+        "openButtonDateFormat": "YYYY. MM. DD",
+        "closeButtonText": "Closed",
+        "note": {
+            "title": "꼭 알아두세요!",
+            "purchaseNotice": {
+                "title": "티켓 구매 유의사항",
+                "description": [
+                    "컨퍼런스 티켓은 선착순(결제 일시 기준)으로 판매되며 조기 매진될 수 있습니다.",
+                    "할인 등록비 적용을 위하여 마감 기한 전 결제를 완료해주시기 바랍니다.",
+                    "세금계산서 발행이 필요하신 경우 UDC 준비사무국으로 문의주시기 바랍니다.",
+                    "예매하신 티켓은 사전 발송되지 않으며, 당일 현장에서 입장권으로 발급됩니다.",
+                    "참가자는 한 번에 최대 10명까지 등록 가능합니다.<br/>11명 이상의 단체 등록 시 할인혜택이 적용되오니 UDC 준비사무국으로 연락하여 주시기 바랍니다.",
+                    "개인 정보 허위 기재 시 등록이 취소될 수 있습니다."
+                ]
+            },
+            "refundPolicy": {
+                "title": "취소/환불 규정",
+                "description": [
+                    "취소 및 환불은 UDC 준비사무국에 이메일로 신청하실 수 있습니다. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">이메일 보내기</a>",
+                    "행사 운영 준비로 인해 9월 3일(화) 이후 환불 처리는 9월 16일(월)부터 처리됩니다.  (이메일 접수 순)",
+                    "기간 별 환불 규정",
+                    "<span class=\"darkish-blue-color\">- 5월 13일 ~ 8월 16일까지(사전등록 마감일) :</span> <span class=\"cerulean-blue-color\">100% 환불</span>",
+                    "<span class=\"darkish-blue-color\">- 8월 17일 ~ 9월 3일까지(행사 1일 전) </span>: <span class=\"cerulean-blue-color\">80% 환불</span>",
+                    "<span class=\"darkish-blue-color\">- 9월 4일부터</span> <span class=\"cerulean-blue-color\">: 환불 불가</span>",
+                    "당일 취소가 아닌 경우, 결제사에 따라 환불 처리 기간이 다를 수 있습니다. ",
+                    "해당 카드사 영업일 기준으로 2~5일이 지났음에도 취소 및 환불이 되지 않았을 경우에는 해당 카드사에 문의해주시기 바랍니다. "
+                ]
+            }
+        }
+    },
+    "step2": {
+        "title": "2. 약관동의",
+        "totalAgreeCheckboxText": "이용약관, 개인정보 수집 및 이용에 모두 동의합니다.",
+        "checkbox1Text": "<span class=\"required\">(필수)</span> 개인정보 수집 및 이용에 대한 안내",
+        "checkbox2Text": "<span class=\"optional\">(선택)</span> 이벤트 및 프로모션 알림 메일 수신 <span class=\"tip\">*UDC 행사정보 안내를 받으시려면 동의해주시기 바랍니다.</span>",
+        "disagree": "동의 하지 않음",
+        "next": "다음으로",
+        "portraitAgreement": "※ 고객님은 개인정보 수집 및 이용에 대한 동의를 거부할 권리가 있으며, 동의를 거부할 경우 받는 별도의 불이익은 없습니다. 단, 필수동의 사항에 동의를 거부할 경우, 서비스 이용이 불가능하거나, 서비스 이용 목적에 따른 서비스 제공에 제한이 따르게 됩니다.<br/><br/>※ 행사 중 촬영된 사진과 동영상은 UDC 홍보와 자료배포에 활용될 수 있으며, 배포 시에는 참가자의 초상권이 침해되지 않도록 최선의 노력을 다하겠습니다."
+    },
+    "step3": {
+        "title": "3. 정보입력",
+        "addTicket": "참가자 추가",
+        "buyerInfo": "구매자 기본정보",
+        "participant": "참가자 정보입력",
+        "sameWithBuyer": "구매자 기본 정보와 동일합니다.",
+        "noteStudent": "※ 현재 학생임을 확인할 수 있는 자료를 제출해주세요.",
+        "buyMoreTickets": "추가 티켓 구매",
+        "alreadyRegisteredPhoneNumber": "해당 핸드폰 번호는 이미 등록되어 있습니다.",
+        "alreadyRegisteredPhoneNumber_m": "해당 핸드폰 번호는<br>이미 등록되어 있습니다.",
+        "checkMyTicket": "나의 티켓 정보 확인",
+        "note": {
+            "title": "<span>UDC 2019</span> <1>티켓 구매</1>",
+            "description": [
+                "구매 시 입력한 핸드폰 번호와 비밀번호를 기억해주세요. 신청 내역 확인 및 수정에 필요합니다.",
+                "참가자는 한 번에 최대 10명까지 등록 가능합니다. <br class=\"mobile-only\"/>11명 이상의 단체 등록 시 할인혜택이 적용되오니 UDC 준비사무국으로 연락하여 주시기 바랍니다.",
+                "작성된 참가자 정보가 행사 출입증 제작에 사용됩니다. 구매자가 다른 참가자 정보를 대신 입력할 경우 정확한 정보를 입력해 주시기 바랍니다.",
+                "결제가 완료되어야 등록이 완료되며 모든 참가자에게 등록 완료 메일 및 메시지가 발송됩니다. ",
+                "메일 및 메시지를 받지 못하신 경우 UDC 사무국으로 문의하여 주시기 바랍니다.  ",
+                "[ UDC 준비사무국 ] E-mail: udc_reg@upbit.com  <br class=\"mobile-only\"/>전화: 02-6242-2827"
+            ]
+        }
+    },
+    "step4": {
+        "title": "4. 결제"
+    },
+    "step5": {
+        "title": "5. 구매내역 확인"
+    },
+    "tickets": {
+        "1": {
+            "title": "BLIND",
+            "note": "*UDC 2018 참석자 대상 한정 판매",
+            "name": "블라인드",
+            "description": "블라인드 기간에 등록하시면<br/><1>65% 할인된 가격</1>으로 구매하실 수 있습니다."
+        },
+        "2": {
+            "title": "EARLY BIRD",
+            "name": "얼리버드",
+            "note": "",
+            "description": "<1>50% 할인된 가격</1>으로 <br/>구매하실 수 있습니다."
+        },
+        "3": {
+            "title": "STANDARD",
+            "name": "스탠다드",
+            "note": "",
+            "description": "<1>25% 할인된 가격</1>으로 <br/>구매하실 수 있습니다."
+        },
+        "4": {
+            "title": "STUDENTS",
+            "name": "학생",
+            "note": "",
+            "description": "<1>학생 100명 선착순 75% 할인,</1><br/>학생증 또는 재학증명서 첨부 필수입니다. "
+        },
+        "5": {
+            "title": "ONSITE",
+            "name": "온사이트",
+            "note": "",
+            "description": "미리 티켓을 구매하지 못한 분은<br/><1>현장에서 티켓을 구매</1>하실 수 있습니다."
+        },
+        "6": {
+            "title": "VIP",
+            "name": "VIP",
+            "note": "",
+            "description": ""
+        },
+        "includes": {
+            "title": "티켓포함사항",
+            "description": [
+                "컨퍼런스 전 기간 참가권",
+                "핸즈온 세션(선착순 마감)",
+                "네트워킹 라운지 및  현장 이벤트 참가권",
+                "점심 2회 제공",
+                "커피브레이크 제공",
+                "네트워킹 디너 1회 제공",
+                "무선 인터넷",
+                "등록 기념품",
+                "전시 관람권"
+            ]
+        }
+    },
+    "payMethods": {
+        "creditCard": "신용카드",
+        "bank": "실시간 계좌이체",
+        "kakaopay": "카카오페이"
+    },
+    "payAlert": [],
+    "englishMobileAlert": "",
+    "billNote": "※ 결제 영수증이 필요하신 경우 UDC 준비사무국으로 연락하여 주십시오. <a class=\"email-btn\" href=\"mailto:udc_reg@upbit.com\">이메일 보내기</a>",
+    "certificationCodeNote": ""
+}

@@ -1,0 +1,26 @@
+{
+    "loginFailed": "Please check your phone number or password again.",
+	"incorrectPassword": "The password is incorrect.",
+	"notEmailFormat": "This is not a valid email format.",
+	"duplicateNickname": "The registered phone number.",
+	"duplicateEmail": "Registered email.",
+	"noRegisteredEmails": "No registered emails.",
+	"invalidCertNumber": "The certification number is invalid.",
+	"noData": "No data.",
+	"emptyFilename": "Empty filename",
+	"saleNotFound": "Item not found.",
+	
+	"orderAleardyPaid": "This order has already been paid.",
+	"orderNotPaid": "This is a non-payment order.",
+	"orderCanPurchaseOnlyYourself": "You can purchase only yourself.",
+	"orderMustBuyFirst": "You must buy item first.",
+	"orderContactUsCancelPayment": "Please contact us to cancel your payment.",
+	"orderNotNormalApproach": "This is not a normal approach.",
+	"orderErrorOccurred": "Error occurred.",
+	"orderDupicateUsername": "Additional purchase tickets have duplicate phone numbers.",
+	
+	"notValidCoupon": "Promotional code is not valid.",
+	"couponExpired": "This coupon has expired.",
+	
+	"mail.certificationNumberSubject": "[UDC] Certification number"
+}
