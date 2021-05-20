@@ -10,7 +10,7 @@
     "delete": "삭제",
     "attendedPastEvent": {
         "label": "지난 행사 참석 여부",
-        "checkboxLabels": ["UDC 2018 참석", "UDC 2019 참석"]
+        "checkboxLabels": ["UDC 2018 참석", "UDC 2019 참석", "UDC 2020 참석"]
     },
     "typeContent": "내용을 기입해 주세요.",
     "occupation": {
@@ -75,6 +75,7 @@
     "address": "주소",
     "detailedAddress": "상세 주소",
     "subpageTitles": {
+        "udc2021": "UDC 2021",
         "udc2020": "UDC 2020",
         "udc2019": "UDC 2019",
         "udc2018": "UDC 2018",

@@ -10,7 +10,7 @@
   "viewMore": "View More",
   "attendedPastEvent": {
     "label": "UDC experience",
-    "checkboxLabels": ["UDC 2018", "UDC 2019"]
+    "checkboxLabels": ["UDC 2018", "UDC 2019", "UDC 2020"]
   },
   "typeContent": "Please fill in the blank.",
   "occupation": {
@@ -74,6 +74,7 @@
   "address": "Address",
   "detailedAddress": "Detailed Address",
   "subpageTitles": {
+    "udc2021": "UDC 2021",
     "udc2020": "UDC 2020",
     "udc2019": "UDC 2019",
     "udc2018": "UDC 2018",
