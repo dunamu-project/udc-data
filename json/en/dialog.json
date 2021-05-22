@@ -17,7 +17,7 @@
     ]
   },
   "registrationComplete": {
-    "title": "UDC 2019 Ticket Registration is completed.",
+    "title": "UDC 2021 Ticket Registration is completed.",
     "message": "Registration confirmation email <br class=\"mobile-only\"/>has been sent.<br />You can check your registration information<br class=\"mobile-only\"/> at My Ticket.",
     "link": {
       "title": "Go to My Ticket",
@@ -41,7 +41,7 @@
     ]
   },
   "subscriptionEnded": {
-    "title": "UDC 2020 Sign-up has been closed.",
+    "title": "UDC 2021 Sign-up has been closed.",
     "buttons": [
       {
         "title": "Confirm"
