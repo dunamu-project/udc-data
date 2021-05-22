@@ -1,13 +1,12 @@
 {
   "main": {
-    "title": "Sign Up for UDC 2020",
+    "title": "Sign Up for UDC 2021",
     "description": [
-      "UDC 2020 Sign-up is available from November 6th (Fri) to November 26th (Thu).",
-      "Upbit Developer Conference 2020 is a free online event.",
-      "Sign up to receive email updates and the official UDC 2020 newsletter.",
-      "All who sign up will be entered into a raffle to win mobile coupons. There could be a restriction on using the coupons if you are not a resident of South Korea.",
-      "Please note that your phone number and password will be required to confirm or modify your sign-up details.",
-      "Please contact the UDC 2020 Secretariat if you haven't received a confirmation e-mail after completing your sign-up.<br/>[UDC Secretariat] e-mail: udc_reg@upbit.com"
+      "UDC 2021 will be held online and free for everyone to attend. (There may be changes depending on quarantine regulations.)",
+      "UDC 2021 sign up is available from May 26th (Wed) to August 18th (Wed).",
+      "Sign up to receive e-mail updates and the official UDC newsletter.",
+      "Please note that your phone number and password will be required to confirm your sign up details.",
+      "Please contact the UDC 2021 Secretariat if you haven't received a confirmation e-mail after completing your sign-up.<br/>[UDC Secretariat] e-mail: udc_reg@upbit.com"
     ],
     "subscribe": "Sign-up",
     "check": "Log-in"
@@ -75,5 +74,5 @@
   },
   "success": "Your Sign-up has been completed.",
   "error": "There was an error with your registration. Please try registering again.",
-  "ended": "UDC 2020 Sign-up has been closed."
+  "ended": "UDC 2021 Sign-up has been closed."
 }
