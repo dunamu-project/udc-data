@@ -13,11 +13,11 @@
   },
   "step1": {
     "title": "1. Terms and Conditions",
-    "totalAgreeCheckboxText": "By Checking this box, I agree to the UDC 2020 Privacy Policy and to receive promotional material via email.",
+    "totalAgreeCheckboxText": "By Checking this box, I agree to the UDC 2021 Privacy Policy and to receive promotional material via email.",
     "agreePopUpText": "You must agree to the terms and conditions for the collection and use of personal information (required)",
     "over14Text": "Age verification required. You must be over the age of 14 years to use this service.",
     "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es), <br /> You must agree with the terms of these agreements to continue.",
-    "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails<br /><span class=\"tip\">* Please agree with the terms of Promotional e-mails agreement to receive promotional information about UDC 2020.</span>",
+    "checkbox2Text": "<span class=\"optional\">(Option)</span> Receive promotional e-mails<br /><span class=\"tip\">* Please agree with the terms of Promotional e-mails agreement to receive promotional information about UDC 2021.</span>",
     "checkbox3Text": "Age verification complete(14 or older)<br/><span class=\"tip\">* You must be 14 or older to use this service. Please check if you are 14 or older.</span>",
     "disagree": "Disagree",
     "next": "Agree",
@@ -31,10 +31,10 @@
     "verificationComplete": "Verification has been completed.",
     "checkDupSuccess": "This phone number is available to use. Please continue.",
     "note": {
-      "title": "Sign Up for UDC 2020",
+      "title": "Sign Up for UDC 2021",
       "description": [
         "Please note that your phone number and password will be required to confirm or modify your sign-up details",
-        "Please contact the UDC 2020 Secretariat if you haven't received a confirmation e-mail after completing your sign-up.<br/>[UDC Secretariat] E-mail: udc_reg@upbit.com"
+        "Please contact the UDC 2021 Secretariat if you haven't received a confirmation e-mail after completing your sign-up.<br/>[UDC Secretariat] E-mail: udc_reg@upbit.com"
       ]
     },
     "label": {
@@ -48,7 +48,7 @@
       "passwordConfirm": "Confirm Password",
       "attendPastEvent": "UDC experience",
       "occupation": "Occupation",
-      "funnel": "How did you hear about UDC 2020"
+      "funnel": "How did you hear about UDC 2021"
     },
     "placeholder": {
       "phoneNumber": "without '-'hyphen",
@@ -66,7 +66,7 @@
     "company": "Affiliation",
     "phoneNumber": "Mobbile Phone Number",
     "email": "E-mail address",
-    "description": "Modifying participant information and cancellation<br/>for sign-up can be requested by e-mail to the UDC 2020 Secretariat.<br/>Please contact the UDC 2020 Secretariat if you haven't received an e-mail/message about the completion of your sign-up.<br/>[UDC Secretariat] e-mail: udc_reg@upbit.com"
+    "description": "Modifying participant information and cancellation<br/>for sign-up can be requested by e-mail to the UDC 2021 Secretariat.<br/>Please contact the UDC 2021 Secretariat if you haven't received an e-mail/message about the completion of your sign-up.<br/>[UDC Secretariat] e-mail: udc_reg@upbit.com"
   },
   "check": {
     "title": "Confirm Sign Up Information",
