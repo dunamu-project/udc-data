@@ -366,6 +366,14 @@
         "key": "Official\n<span>Language</span>",
         "val": "English, Korean (English-Korean simultaneous interpretation will be provided.)"
       }
+    ],
+    "texts": [
+      "<span class=\"bold\">About UDC 2018</span>",
+      "UDC, the first “blockchain developer-focused” conference in Korea, launched in September 2018! About 1,600 people participated in the 1st UDC held on Jeju Island, ensuring a successful kick off.",
+      "<span class=\"bold\">“ Proof of Developer “ </span>",
+
+      "‘Proof of Developer’ signifies the hard work blockchain developers put in on a daily basis to enrich the ecosystem.",
+      "‘UDC 2018’ is a place for them to gather and share and advance ideas that will comprise the blockchain of the future."
     ]
   },
   "2019": {
@@ -431,96 +439,78 @@
     ]
   },
   "2020": {
-    "subTitle": "Solving the Future with Blockchain",
-    "description": "<p>With the theme of <strong>‘return blockchain * future;’</strong></br>UDC 2020 discusses the role and impact of blockchain in the pandemic era</br>and where the industry is headed in 2021 and beyond.</p>",
-    "description_m": "<p>With the theme of <strong>‘return blockchain * future;’</strong></br>UDC 2020 discusses the role and impact<br />of blockchain in the pandemic era</br>and where the industry is headed<br/>in 2021 and beyond.</p>",
-    "whatIs": "Upbit Developer Conference(UDC) is a 'true developer-centric event' where participants can engage with likeminded developers and share their passion for blockchain techonology through the free exchange of ideas.",
-    "whatIsM": "Upbit Developer Conference(UDC) is a 'true developer-centric event' where participants can engage with likeminded developers and share their passion for blockchain techonology through the free exchange of ideas.",
-    "aboutFirst": [
-      "As the global pandemic continues<br/>to impact all of us in 2020,<br/>",
-      "family gatherings,<br/>dinners with friends,<br/>and walks around the neighborhood<br/>are no longer natural parts of our daily lives.<br/>",
-      "The pandemic has disrupted the way we live and<br/>the way we view the world in immeasurable ways.<br/>",
-      "Under the theme of"
-    ],
-    "aboutSec": [
-      "'Solving the Future with Blockchain',<br/>the online-exclusive UDC 2020 examines<br/>what answers blockchain can provide and<br/>how the technology will shape our future."
-    ],
-    "concepts": [
+    "title_1": "<span class=\"year\">Upbit Developer Conference 2020 (UDC 2020)</span>",
+    "title_2": "OVERVIEW",
+    "infos": [
       {
-        "title": "A Communication Platform for Developers",
-        "descriptions": [
-          "Insight from world-class blockchain developers",
-          "New technology and trends that matter to developers",
-          "Numerous events to share and exchange ideas"
-        ]
+        "key": "Date",
+        "val": "Nov. 30(Mon) - Dec. 4(Fri), 2020"
       },
       {
-        "title": "In-depth Exchange of Ideas",
-        "descriptions": [
-          "An event dedicated to developers",
-          "Speakers that provide real and applicable insight",
-          "Diverse formats to allow active exchange of ideas for developers"
-        ]
+        "key": "Venue",
+        "val": "Online [UDC Youtube channel)"
       },
       {
-        "title": "Where We Can Get Together",
-        "descriptions": [
-          "Free online conference UDC",
-          "Enjoy by participating in pre-registration and live events."
-        ]
+        "key": "Theme",
+        "val": "return blockchain * future;"
+      },
+      {
+        "key": "Organizer",
+        "val": "Dunamu Inc."
+      },
+      {
+        "key": "Participants",
+        "val": "Blockchain developers, service providers, and enthusiasts"
+      },
+      {
+        "key": "Language",
+        "val": "Korean, English(Both English and Korean subtitles)"
       }
     ],
-    "menu": [
-      "Speakers",
-      "Program",
-      "Sign Up"
-    ]
+    "texts": [
+      "<span class=\"bold\">About UDC 2020</span>",
+      "As the global pandemic continues\nto impact all of us in 2020,",
+      "family gatherings,\ndinners with friends,\nand walks around the neighborhood\nare no longer natural parts of our daily lives",
+      "The pandemic has disrupted the way we live and\nthe way we view the world in immeasurable ways.",
+      "Under the theme of",
+      "<span class=\"bold\">“ return blockchain * future; “</span>",
+      "‘Solving the Future with Blockchain’,\nthe online-exclusive UDC 2020 examines\nwhat answers blockchain can provide and\nhow the technology will shape our future."
+    ],
+    "highlight_msg": "",
+    "concepts": []
   },
   "2021": {
-    "subTitle": "Solving the Future with Blockchain",
-    "description": "<p>With the theme of <strong>‘return blockchain * future;’</strong></br>UDC 2020 discusses the role and impact of blockchain in the pandemic era</br>and where the industry is headed in 2021 and beyond.</p>",
-    "description_m": "<p>With the theme of <strong>‘return blockchain * future;’</strong></br>UDC 2020 discusses the role and impact<br />of blockchain in the pandemic era</br>and where the industry is headed<br/>in 2021 and beyond.</p>",
-    "whatIs": "Upbit Developer Conference(UDC) is a 'true developer-centric event' where participants can engage with likeminded developers and share their passion for blockchain techonology through the free exchange of ideas.",
-    "whatIsM": "Upbit Developer Conference(UDC) is a 'true developer-centric event' where participants can engage with likeminded developers and share their passion for blockchain techonology through the free exchange of ideas.",
-    "aboutFirst": [
-      "As the global pandemic continues<br/>to impact all of us in 2020,<br/>",
-      "family gatherings,<br/>dinners with friends,<br/>and walks around the neighborhood<br/>are no longer natural parts of our daily lives.<br/>",
-      "The pandemic has disrupted the way we live and<br/>the way we view the world in immeasurable ways.<br/>",
-      "Under the theme of"
-    ],
-    "aboutSec": [
-      "'Solving the Future with Blockchain',<br/>the online-exclusive UDC 2020 examines<br/>what answers blockchain can provide and<br/>how the technology will shape our future."
-    ],
-    "concepts": [
+    "title_1": "Upbit Developer Conference 2021 (UDC 2021)",
+    "title_2": "OVERVIEW",
+    "infos": [
       {
-        "title": "A Communication Platform for Developers",
-        "descriptions": [
-          "Insight from world-class blockchain developers",
-          "New technology and trends that matter to developers",
-          "Numerous events to share and exchange ideas"
-        ]
+        "key": "Date",
+        "val": "Sep. 1(Wed) - 2(THU), 2021"
       },
       {
-        "title": "In-depth Exchange of Ideas",
-        "descriptions": [
-          "An event dedicated to developers",
-          "Speakers that provide real and applicable insight",
-          "Diverse formats to allow active exchange of ideas for developers"
-        ]
+        "key": "Venue",
+        "val": "Online [UDC Youtube channel]"
       },
       {
-        "title": "Where We Can Get Together",
-        "descriptions": [
-          "Free online conference UDC",
-          "Enjoy by participating in pre-registration and live events."
-        ]
+        "key": "Organizer",
+        "val": "Dunamu Inc."
+      },
+      {
+        "key": "Participants",
+        "val": "Blockchain developers, service providers, and enthusiasts"
+      },
+      {
+        "key": "Official",
+        "val": "enthusiasts"
+      },
+      {
+        "key": "Language",
+        "val": "Simultaneous interpretation will be provided."
       }
     ],
-    "menu": [
-      "Speakers",
-      "Program",
-      "Sign Up"
-    ]
+    "texts": [],
+    "highlight_msg": "",
+    "concepts": []
   }
   
 }
