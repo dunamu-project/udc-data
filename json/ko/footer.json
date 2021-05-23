@@ -7,9 +7,9 @@
     ],
     "allowedSns": [
         "youtube",
-        "youtube",
         "facebook",
-        "instagram"
+        "instagram",
+        "kakaotalk"
     ],
     "snsAlert": "준비중입니다.",
     "dunamuCorp": "두나무(주)",
