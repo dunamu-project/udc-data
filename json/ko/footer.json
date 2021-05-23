@@ -2,7 +2,8 @@
     "sns": [
         "youtube",
         "facebook",
-        "instagram"
+        "instagram",
+        "kakaotalk"
     ],
     "allowedSns": [
         "youtube",
