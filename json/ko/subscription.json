@@ -48,7 +48,7 @@
       "password": "비밀번호",
       "passwordConfirm": "비밀번호 확인",
       "attendPastEvent": "지난 행사 참석 여부",
-      "attendPastEvent2": "<b style=\"margin-left:10px;\" >[중복 선택 가능]</b>",
+      "attendPastEvent2": "[중복 선택 가능]",
       "occupation": "직종",
       "funnel": "유입 경로"
     },
