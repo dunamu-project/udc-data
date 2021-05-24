@@ -47,6 +47,7 @@
       "password": "Password",
       "passwordConfirm": "Confirm Password",
       "attendPastEvent": "UDC experience",
+      "attendPastEvent2": "<b style=\"margin-left:10px;\" >[Multiple selection possible]</b>",
       "occupation": "Occupation",
       "funnel": "How did you hear about UDC 2021"
     },
