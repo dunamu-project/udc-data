@@ -451,7 +451,7 @@
       },
       {
         "key": "Theme",
-        "val": "return blockchain * future;"
+        "val": "<span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span>"
       },
       {
         "key": "Organizer",
@@ -462,8 +462,8 @@
         "val": "Blockchain developers, service providers, and enthusiasts"
       },
       {
-        "key": "Language",
-        "val": "Korean, English(Both English and Korean subtitles)"
+        "key": "Official Language",
+        "val": "English, Korean (English-Korean simultaneous interpretation will be provided.)"
       }
     ],
     "texts": [
@@ -472,7 +472,7 @@
       "family gatherings,\ndinners with friends,\nand walks around the neighborhood\nare no longer natural parts of our daily lives",
       "The pandemic has disrupted the way we live and\nthe way we view the world in immeasurable ways.",
       "Under the theme of",
-      "<span class=\"bold\">“ return blockchain * future; “</span>",
+      "<span class=\"bold\">“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>",
       "‘Solving the Future with Blockchain’,\nthe online-exclusive UDC 2020 examines\nwhat answers blockchain can provide and\nhow the technology will shape our future."
     ],
     "highlight_msg": "",
@@ -499,12 +499,8 @@
         "val": "Blockchain developers, service providers, and enthusiasts"
       },
       {
-        "key": "Official",
-        "val": "enthusiasts"
-      },
-      {
-        "key": "Language",
-        "val": "Simultaneous interpretation will be provided."
+        "key": "Official Language",
+        "val": "English, Korean (English-Korean simultaneous interpretation will be provided.)"
       }
     ],
     "texts": [],
