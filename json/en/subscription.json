@@ -10,7 +10,7 @@
     ],
     "subscribe": "Sign-up",
     "check": "Log-in"
-  },
+  }, 
   "step1": {
     "title": "1. Terms and Conditions",
     "totalAgreeCheckboxText": "By Checking this box, I agree to the UDC 2021 Privacy Policy and to receive promotional material via email.",
