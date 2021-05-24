@@ -26,7 +26,9 @@
     "funnel": {
         "label": "유입 경로<span class=\"tip\">*</span>",
         "dunamu": "업비트 (두나무) 관련사이트",
-        "online_ad": "온라인 광고",
+
+        "youtube": "YouTube",
+        "sns": "SNS",
         "news": "뉴스",
         "viral": "지인소개",
         "community": "카페/커뮤니티",
