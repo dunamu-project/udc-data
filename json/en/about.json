@@ -99,7 +99,7 @@
       "description_m": "“What makes UDC special is that it features not just practical discussions, but philosophical ones as well, such as the future of the blockchain technology and where it should be headed. I’m originally an AI developer, so the networking events were a great way for me to gain meaningful insight from blockchain experts.”",
       "link": "",
       "img" : "https://udc-file.s3.ap-northeast-2.amazonaws.com/images/feedback_10.png"
-    },
+    }, 
     {
       "title" : "“Gaining First-Hand Experience of Various Blockchain Services was Quite Instructive .”",
       "title_m" : "“Gaining First-Hand Experience of Various Blockchain Services was Quite Instructive .”",
@@ -447,7 +447,7 @@
       },
       {
         "key": "Venue",
-        "val": "Online [UDC Youtube channel)"
+        "val": "Online [UDC Youtube])"
       },
       {
         "key": "Theme",
@@ -463,7 +463,7 @@
       },
       {
         "key": "Official\n<span>Language</span>",
-        "val": "English, Korean (English-Korean simultaneous interpretation will be provided.)"
+        "val": "Korean, English (English-Korean simultaneous interpretation will be provided.)"
       }
     ],
     "texts": [
@@ -479,7 +479,7 @@
     "concepts": []
   },
   "2021": {
-    "title_1": "Upbit Developer Conference 2021 (UDC 2021)",
+    "title_1": "Upbit Developer Conference 2021",
     "title_2": "OVERVIEW",
     "infos": [
       {
@@ -488,7 +488,7 @@
       },
       {
         "key": "Venue",
-        "val": "Online [UDC Youtube channel]"
+        "val": "Online [UDC Youtube]"
       },
       {
         "key": "Organizer",
@@ -500,7 +500,7 @@
       },
       {
         "key": "Official\n<span>Language</span>",        
-        "val": "English, Korean (English-Korean simultaneous interpretation will be provided.)"
+        "val": "Korean, English (English-Korean simultaneous interpretation will be provided.)"
       }
     ],
     "texts": [],
