@@ -8,12 +8,12 @@
       "Please note that your phone number and password will be required to confirm your sign up details.",
       "Please contact the UDC 2021 Secretariat if you haven't received a confirmation e-mail after completing your sign up.<br/>[UDC Secretariat] e-mail: udc_reg@upbit.com"
     ],
-    "subscribe": "Sign-up",
-    "check": "Log-in"
+    "subscribe": "Sign up",
+    "check": "Log in"
   }, 
   "step1": {
     "title": "1. Terms and Conditions",
-    "totalAgreeCheckboxText": "By Checking this box, I agree to the UDC 2021 Privacy Policy and to receive promotional material via email.",
+    "totalAgreeCheckboxText": "By Checking this box, I agree to the UDC 2021 Privacy Policy and to receive promotional material via e-mail.",
     "agreePopUpText": "You must agree to the terms and conditions for the collection and use of personal information (required)",
     "over14Text": "Age verification required. You must be over the age of 14 years to use this service.",
     "checkbox1Text": "Please review the agreement(s) below and agree by selecting the checkbox(es), <br /> You must agree with the terms of these agreements to continue.",
@@ -33,7 +33,7 @@
     "note": {
       "title": "Sign Up for UDC 2021",
       "description": [
-        "Please note that your phone number and password will be required to confirm or modify your sign-up details",
+        "Please note that your phone number and password will be required to confirm your sign up details",
         "Please contact the UDC 2021 Secretariat if you haven't received a confirmation e-mail after completing your sign-up.<br/>[UDC Secretariat] E-mail: udc_reg@upbit.com"
       ]
     },
