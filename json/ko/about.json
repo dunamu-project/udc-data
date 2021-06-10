@@ -450,7 +450,7 @@
       },
       {
         "key": "주제",
-        "val": "<span class='\"'ubuntu__mono\"><span style='color:#0367d9; top:0;'>return</span> <span >blockchain</span> <span style='color:#0367d9; top:0;' >*</span> <span>future</span><span style='color:#0367d9; top:0;' >;</span></span>"
+        "val": "<span class=\"bold ubuntu__mono\">“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>"
       },
       {
         "key": "주최",
@@ -471,7 +471,7 @@
       "2020년 우리는,\n가족을 만나는 것\n친구들과 밥 한 끼 먹는 것\n동네를 산책하는 것 등등\n일상이었던 많은 일이 더 이상 자연스럽지 않았습니다.\n",
       "코로나가 가져온 광범위한 변화는 우리의 일상과 인식을 송두리째 바꿔 놓았습니다.",
       "코로나 시대\n어떤 고민을 하고, 어떻게 헤쳐나가야 할지",
-      "<span class=\"bold ubuntu__mono\" >“ <span style='color:#0367d9;' >return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>",
+      "<span class=\"bold ubuntu__mono\">“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>",
       "‘블록체인, 미래의 답을 찾다’를 주제로\n온라인에서 무료 개최된 UDC 2020에서\n블록체인과 미래를 답을 찾아보았습니다."
     ],
     "highlight_msg": "",

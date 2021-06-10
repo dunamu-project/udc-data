@@ -451,7 +451,7 @@
       },
       {
         "key": "Theme",
-        "val": "<span class=\"ubuntu__mono\"><span style='color:#0367d9; top:0;'>return</span> blockchain <span style='color:#0367d9; top:0;'>*</span> future<span style='color:#0367d9; top:0;'>;</span></span>"
+        "val": "<span class=\"bold ubuntu__mono\">“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>"
       },
       {
         "key": "Organizer",
