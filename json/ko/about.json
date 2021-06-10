@@ -450,7 +450,7 @@
       },
       {
         "key": "주제",
-        "val": "<span class=\"bold ubuntu__mono\">“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>"
+        "val": "<span class=\"bold ubuntu__mono\" >“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>"
       },
       {
         "key": "주최",
