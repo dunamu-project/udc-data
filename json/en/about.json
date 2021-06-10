@@ -451,7 +451,7 @@
       },
       {
         "key": "Theme",
-        "val": "<span style='color:#0367d9; top:0;'>return</span> blockchain <span style='color:#0367d9; top:0;'>*</span> future<span style='color:#0367d9; top:0;'>;</span>"
+        "val": "<span class=\"ubuntu__mono\"><span style='color:#0367d9; top:0;'>return</span> blockchain <span style='color:#0367d9; top:0;'>*</span> future<span style='color:#0367d9; top:0;'>;</span></span>"
       },
       {
         "key": "Organizer",
@@ -472,7 +472,7 @@
       "family gatherings,\ndinners with friends,\nand walks around the neighborhood\nare no longer natural parts of our daily lives",
       "The pandemic has disrupted the way we live and\nthe way we view the world in immeasurable ways.",
       "Under the theme of",
-      "<span class=\"bold\">“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>",
+      "<span class=\"bold\" class=\"ubuntu__mono\">“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>",
       "‘Solving the Future with Blockchain’,\nthe online-exclusive UDC 2020 examines\nwhat answers blockchain can provide and\nhow the technology will shape our future."
     ],
     "highlight_msg": "",
