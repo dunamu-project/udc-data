@@ -503,7 +503,29 @@
         "val": "Korean, English"
       }
     ],
-    "texts": [],
+    "texts": [ "<span class=\"bold\">About UDC 2021</span>",
+      "Tesla, eBay, Square, Fox Entertainment, J.P. Morgan, Fidelity International, Cambodia’s Project Bakong, China digital yuan project, and Coinbase.",
+      "Did you notice that all of them have blockchain and digital assets in common?\n", 
+      
+      "It is not just the unheard-of startups, but global conglomerates, international financial groups, and governments are diving right into the blockchain world.\n", 
+      
+      "Why Blockchain?", 
+      "Blockchain is digitizing areas that could not be digitized before.\n",
+      
+      "Artworks, musician’s songs, sports athletes’ outstanding skills, and games are digitized with NFTs.\n", 
+      
+      "Even national currencies are also joining the digitization bandwagon.",
+      "Governments and central banks of more than 60 countries are starting research and experiments on introducing CBDC.\n",
+      
+      "Digital asset-based investment products are introduced to the market, and digital asset-based payment systems are quickly following suit.\n",  
+      
+      "UDC 2021 aims to follow the great strides that the blockchain technology and digital assets are making.\n",
+      
+      "Perhaps the future of blockchain is already upon us.",
+      "Just as the Internet as a new infrastructure and smartphones as a new device that became important part of our lives, blockchain will also gradually permeate our day-to-day lives.",
+      "The world of blockchain is to come soon. How about you catch a glimpse of the world with UDC 2021?\n",
+      
+      "<span class=\"kopub color--sky\">\"</span> Welcome to the Blockchain World <span class=\"kopub\">\"</span>"],
     "highlight_msg": "",
     "concepts": []
   }
