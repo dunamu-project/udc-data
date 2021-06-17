@@ -370,9 +370,9 @@
     "texts": [
       "<span class=\"bold\">About UDC 2018</span>",
       "2018년 9월 첫 선을 보인 국내 최초 ‘블록체인 개발자 중심’ 컨퍼런스 UDC! 제주도에서 개최된 첫 해 UDC에 1,600여 명이 참가해 성공적인 출발을 알렸습니다.",
-      "<span class=\"bold\">“ Proof of Developer “ </span>",
+      "<span class=\"bold\">“ Proof of Developer ”</span>",
 
-      "새로운 블록에 작업을 완료했음을 ‘증명‘하듯이, 개발자들은 오늘도 블록체인 생태계에 새로운 작업 완료를 ‘증명‘하고 있습니다.\n블록체인 생태계는 개발자들의 열띤 토론과 뜨거운 땀으로 만들어집니다.\n개발자들을 위한, 개발자들에게 필요한 최초의 블록체인 컨퍼런스, UDC 2018은 “Proof of Developer” (개발자 증명)을 주제로 개최되었습니다."
+      "새로운 블록에 작업을 완료했음을 ‘증명’하듯이, 개발자들은 오늘도 블록체인 생태계에 새로운 작업 완료를 ‘증명’하고 있습니다.\n블록체인 생태계는 개발자들의 열띤 토론과 뜨거운 땀으로 만들어집니다.\n개발자들을 위한, 개발자들에게 필요한 최초의 블록체인 컨퍼런스, UDC 2018은 “Proof of Developer” (개발자 증명)을 주제로 개최되었습니다."
     ]
   },
   "2019": {
@@ -450,7 +450,7 @@
       },
       {
         "key": "주제",
-        "val": "<span class=\"bold ubuntu__mono\" >“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>"
+        "val": "<span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span>"
       },
       {
         "key": "주최",
@@ -471,7 +471,7 @@
       "2020년 우리는,\n가족을 만나는 것\n친구들과 밥 한 끼 먹는 것\n동네를 산책하는 것 등등\n일상이었던 많은 일이 더 이상 자연스럽지 않았습니다.\n",
       "코로나가 가져온 광범위한 변화는 우리의 일상과 인식을 송두리째 바꿔 놓았습니다.",
       "코로나 시대\n어떤 고민을 하고, 어떻게 헤쳐나가야 할지",
-      "<span class=\"bold ubuntu__mono\">“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> “</span>",
+      "<span class=\"bold ubuntu__mono\">“ <span style='color:#0367d9;'>return</span> blockchain <span style='color:#0367d9;'>*</span> future<span style='color:#0367d9;'>;</span> ❞</span>",
       "‘블록체인, 미래의 답을 찾다’를 주제로\n온라인에서 무료 개최된 UDC 2020에서\n블록체인과 미래를 답을 찾아보았습니다."
     ],
     "highlight_msg": "",
@@ -488,6 +488,10 @@
       {
         "key": "장소",
         "val": "온라인 (UDC 유튜브 채널)"
+      },
+      {
+        "key": "주제",
+        "val": "Welcome to the Blockchain World"
       },
       {
         "key": "주최",
@@ -531,15 +535,15 @@
     "concepts": [
       {
         "title": "개발자들의 커뮤니케이션 플랫폼",
-        "text": "글로벌 최고 수준 연사들의 블록체인 개발에 대한 인사이트<br />신기술 시연, 트렌드 공유 등 개발자들만의 이야기<br />다양한 네트워킹 공간을 통한 개발 지식 공유"
+        "text": "· 글로벌 최고 수준 연사들의 블록체인 개발에 대한 인사이트<br />신기술 시연, 트렌드 공유 등 개발자들만의 이야기<br />다양한 네트워킹 공간을 통한 개발 지식 공유"
       },
       {
         "title": "심도 있는 지식의 공유",
-        "text": "블록체인 개발에 대한 전문적이고 실질적인 콘텐츠<br />다채로운 패널 세션을 통해 심도 있는 개발 지식 논의"
+        "text": "· 블록체인 개발에 대한 전문적이고 실질적인 콘텐츠<br />다채로운 패널 세션을 통해 심도 있는 개발 지식 논의"
       },
       {
         "title": "함께하는 즐거운 자리",
-        "text": "온라인에서 무료로 만나는 UDC<br />사전 예약 이벤트, 실시간 시청 이벤트로 즐기는 컨퍼런스"
+        "text": "· 온라인에서 무료로 만나는 UDC<br />사전 예약 이벤트, 실시간 시청 이벤트로 즐기는 컨퍼런스"
       }
 
     ]
